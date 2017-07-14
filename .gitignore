@@ -3,9 +3,3 @@ target/
 .classpath
 .project
 .settings/
-
-<<<<<<< HEAD
-=======
-# Maven
-log/
-target/
