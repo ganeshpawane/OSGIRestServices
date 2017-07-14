@@ -69,6 +69,3 @@ g! start 10
 
 And finally start your bundle
 g! start 6
-
-
-
